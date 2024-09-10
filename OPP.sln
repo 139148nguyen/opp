@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OPP", "OPP.csproj", "{7BE3F138-9448-474A-9950-12152AC48005}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{EA476A6B-14FB-435C-B268-25CFC4339657}"
+	ProjectSection(SolutionItems) = preProject
+		Car.cs = Car.cs
+		Person.cs = Person.cs
+		Vehicle.cs = Vehicle.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE3F138-9448-474A-9950-12152AC48005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE3F138-9448-474A-9950-12152AC48005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE3F138-9448-474A-9950-12152AC48005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE3F138-9448-474A-9950-12152AC48005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10A2D1C1-DB3E-4308-980A-E26BDCA47A17}
+	EndGlobalSection
+EndGlobal

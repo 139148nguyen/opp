@@ -1,0 +1,14 @@
+C:\Users\minh\source\repos\OPP\bin\Debug\net8.0\OPP.exe
+C:\Users\minh\source\repos\OPP\bin\Debug\net8.0\OPP.deps.json
+C:\Users\minh\source\repos\OPP\bin\Debug\net8.0\OPP.runtimeconfig.json
+C:\Users\minh\source\repos\OPP\bin\Debug\net8.0\OPP.dll
+C:\Users\minh\source\repos\OPP\bin\Debug\net8.0\OPP.pdb
+C:\Users\minh\source\repos\OPP\obj\Debug\net8.0\OPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minh\source\repos\OPP\obj\Debug\net8.0\OPP.AssemblyInfoInputs.cache
+C:\Users\minh\source\repos\OPP\obj\Debug\net8.0\OPP.AssemblyInfo.cs
+C:\Users\minh\source\repos\OPP\obj\Debug\net8.0\OPP.csproj.CoreCompileInputs.cache
+C:\Users\minh\source\repos\OPP\obj\Debug\net8.0\OPP.dll
+C:\Users\minh\source\repos\OPP\obj\Debug\net8.0\refint\OPP.dll
+C:\Users\minh\source\repos\OPP\obj\Debug\net8.0\OPP.pdb
+C:\Users\minh\source\repos\OPP\obj\Debug\net8.0\OPP.genruntimeconfig.cache
+C:\Users\minh\source\repos\OPP\obj\Debug\net8.0\ref\OPP.dll
